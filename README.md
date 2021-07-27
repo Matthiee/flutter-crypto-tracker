@@ -7,3 +7,7 @@
 - Add COINAPI=API_KEY_HERE in .env file
 - Run `flutter pub get`
 - Run `flutter run`
+
+## Result
+
+![Flutter App In Action](crypto_tracker_app.gif)
